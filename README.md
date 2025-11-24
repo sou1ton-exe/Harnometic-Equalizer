@@ -4,6 +4,7 @@
 ![Harnometic | Screenshot ](https://github.com/sou1ton-exe/Harnometic-Equalizer/blob/main/assets/screenshot.jpg)
 
 + Information about this and other projects on the Telegram channel - **`https://t.me/s_lowcode_w`**
++ At the moment, the project is in the app building stage
 
 
 # 💰Поддержать проект:
