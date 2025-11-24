@@ -7,7 +7,7 @@
 + At the moment, the project is in the app building stage
 
 
-# 💰Поддержать проект:
+# 💰: Support the project:
 
 + #### ![tbank](https://github.com/sergey-tkach/top-russian-banks-icons/blob/master/png/tinkoff.png)**TBank**
   + **`2202 7007 2295 4574`** ![logo](https://i.ibb.co/c3RBK50/mir2.png)
