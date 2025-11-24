@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-# 🎛️: Harnometic-Equalizer
+# 🎛️: Harnometic-Equalizer | v1.0.0
 HARNOMETIC is an application that allows you to change the signal frequency of audio files in any format, and then upload the modified file to your device.
 ![Harnometic | Screenshot ](https://github.com/sou1ton-exe/Harnometic-Equalizer/blob/main/assets/screenshot.jpg)
 
