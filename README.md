@@ -4,7 +4,7 @@ HARNOMETIC is an application that allows you to change the signal frequency of a
 
 # 💰Поддержать проект:
 
-+ #### ![logo](https://ibb.co/tMrxcNkf) **TBank**
++ #### ![tbank](https://i.bb.co/tMrxcNkf) **TBank**
   + **`2202 7007 2295 4574`** ![logo](https://i.ibb.co/c3RBK50/mir2.png)
-+ #### ![logo](https://ibb.co/MxTdGfCc) **Dalink**
++ #### ![dalink](https://i.bb.co/MxTdGfCc) **Dalink**
   + **`https://dalink.to/sou1toon`**
